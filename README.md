@@ -28,7 +28,7 @@ This project aims to provide a series of detailed, hands-on lessons covering fun
 To get started with this learning journey, simply clone this repository and follow the structured lessons. Each lesson is self-contained and includes theory, code examples, and exercises.
 
 ```bash
-git clone https://github.com/yourusername/python-learning-journey.git
+git clone https://github.com/LuxuryTimepiece/python-learning-journey.git
 ```
 
 ## Contributing

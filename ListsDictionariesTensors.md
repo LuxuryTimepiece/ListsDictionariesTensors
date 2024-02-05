@@ -408,7 +408,7 @@ print("The processed data is:", processed_data)
 # along with their corresponding labels
 ```
 
-####This code provides a basic structure for simulating image data preprocessing in Python, which is a common task in machine learning workflows. The comments explain each part of the code to make it clear how the simulated image data is being created and processed.
+###This code provides a basic structure for simulating image data preprocessing in Python, which is a common task in machine learning workflows. The comments explain each part of the code to make it clear how the simulated image data is being created and processed.
 ---
 
 ## Critical Thinking Challenges

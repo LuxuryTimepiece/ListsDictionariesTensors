@@ -2,7 +2,7 @@
 
 # Python Learning Journey: Lists, Dictionaries, and Tensors
 
-Welcome to the Python Learning Journey, an educational initiative designed to guide enthusiasts through the essentials of Python, with a special emphasis on its application in machine learning and artificial intelligence. This project draws inspiration from a YouTube conversation between David Bombal and Dr. Mike Pound, emphasizing the growing relevance of Python in AI.
+Welcome! This is an educational initiative designed to guide enthusiasts through the essentials of Python, with a special emphasis on its application in machine learning and artificial intelligence. This project draws inspiration from a YouTube conversation between David Bombal and Dr. Mike Pound, emphasizing the growing relevance of Python in AI.
 
 ## About This Project
 
@@ -10,11 +10,10 @@ This project aims to provide a series of detailed, hands-on lessons covering fun
 
 ## What You Will Learn
 
-- **Python Basics**: Master the fundamentals of Python, including syntax, data structures, and core programming concepts.
+- **Python Basics**: Learn the fundamentals of Python, including syntax, data structures, and core programming concepts.
 - **Data Structures in Depth**: Dive into lists and dictionaries, understanding their role in data manipulation and representation.
 - **Tensors Explained**: Grasp the concept of tensors, the backbone of machine learning algorithms, using Python.
-- **Machine Learning Readiness**: Prepare for machine learning applications with practical exercises and mini-projects.
-- **Real-World Application**: Engage in code-along projects that simulate real-world AI scenarios.
+- **Machine Learning Readiness**: Better understand machine learning applications with practical exercises and mini-projects.
 
 ## Target Audience
 

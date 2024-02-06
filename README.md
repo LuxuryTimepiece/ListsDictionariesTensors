@@ -2,7 +2,7 @@
 
 # Python Learning Journey: Lists, Dictionaries, and Tensors
 
-Welcome! This is an educational initiative designed to guide enthusiasts through the essentials of Python, with a special emphasis on its application in machine learning and artificial intelligence. This project draws inspiration from a YouTube conversation between David Bombal and Dr. Mike Pound, emphasizing the growing relevance of Python in AI.
+Welcome! This is an educational document designed to guide enthusiasts through the essentials of Python, with a special emphasis on its application in machine learning and artificial intelligence. This project draws inspiration from a YouTube conversation between David Bombal and Dr. Mike Pound, emphasizing the growing relevance of Python in AI.
 
 ## About This Project
 
